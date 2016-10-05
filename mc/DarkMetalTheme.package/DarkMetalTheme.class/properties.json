@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "EstebanLorenzano 7/7/2016 18:41",
+	"super" : "Pharo3DarkTheme",
+	"category" : "DarkMetalTheme",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DarkMetalTheme",
+	"type" : "normal"
+}

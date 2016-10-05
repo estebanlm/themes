@@ -1,0 +1,30 @@
+{
+	"instance" : {
+		"selectionColor" : "EstebanLorenzano 7/27/2016 08:27",
+		"borderColor" : "EstebanLorenzano 7/8/2016 00:45",
+		"backgroundColor" : "EstebanLorenzano 7/7/2016 18:38",
+		"desktopColor" : "EstebanLorenzano 7/7/2016 19:17",
+		"growlBorderColorFor:" : "EstebanLorenzano 7/7/2016 19:25",
+		"buttonBorderStyleFor:" : "EstebanLorenzano 7/8/2016 00:44",
+		"darkBaseColor" : "EstebanLorenzano 7/8/2016 19:07",
+		"buttonColor" : "EstebanLorenzano 7/7/2016 19:01",
+		"lightBackgroundColor" : "EstebanLorenzano 7/7/2016 18:58",
+		"scrollbarNormalFillStyleFor:" : "EstebanLorenzano 7/7/2016 19:15",
+		"growlFillColorFor:" : "EstebanLorenzano 7/7/2016 19:26",
+		"windowInactiveFillStyleFor:" : "EstebanLorenzano 7/7/2016 19:21",
+		"listBackgroundColor" : "EstebanLorenzano 7/7/2016 19:09",
+		"baseColor" : "EstebanLorenzano 7/8/2016 19:07",
+		"buttonNormalBorderStyleFor:" : "EstebanLorenzano 7/7/2016 19:11"
+	},
+	"class" : {
+		"baseColor" : "EstebanLorenzano 7/7/2016 18:52",
+		"baseSelectionColor" : "EstebanLorenzano 7/27/2016 08:31",
+		"baseTextColor" : "EstebanLorenzano 7/11/2016 08:02",
+		"themeName" : "EstebanLorenzano 7/7/2016 18:54",
+		"basePassiveBackgroundColor" : "EstebanLorenzano 7/7/2016 18:54",
+		"lightBaseColor" : "EstebanLorenzano 7/7/2016 18:54",
+		"lightSelectionColor" : "EstebanLorenzano 7/7/2016 19:50",
+		"newDefaultSettings" : "EstebanLorenzano 7/11/2016 08:09",
+		"darkBaseColor" : "EstebanLorenzano 7/8/2016 00:20"
+	}
+}
