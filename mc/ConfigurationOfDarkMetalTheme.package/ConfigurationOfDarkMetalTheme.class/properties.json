@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfDarkMetalTheme",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ConfigurationOfDarkMetalTheme",
+	"pools" : [
+		 ],
+	"super" : "ConfigurationOf",
+	"type" : "normal" }
