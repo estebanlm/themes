@@ -9,9 +9,9 @@ I didn't find a better name for this one ;)
 
 Pharo will look like this: 
 
-<img src"https://raw.githubusercontent.com/estebanlm/themes/master/images/DarkMetalPharo.png" alt="Desktop Screenshot" width="600px">
+<img src="https://raw.githubusercontent.com/estebanlm/themes/master/images/DarkMetalPharo.png" alt="Desktop Screenshot" width="600px">
 
-But actually, I made this for another of my projects, the (MUDClient)[http://github.com/estebanlm/MUDClient], which looks like this: 
+But actually, I made this for another of my projects, the [MUDClient](http://github.com/estebanlm/MUDClient), which looks like this: 
 
 <img src="https://raw.githubusercontent.com/estebanlm/themes/master/images/MUDClient.png" alt="MUDClient ScreenShot" width="600px">
 
