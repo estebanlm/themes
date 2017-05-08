@@ -1,3 +1,3 @@
 accessing
 themeName
-	^ 'MUD Dark'
+	^ 'DarkMetal'
