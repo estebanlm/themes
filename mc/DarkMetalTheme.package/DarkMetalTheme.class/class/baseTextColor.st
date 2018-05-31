@@ -1,3 +1,0 @@
-accessing
-baseTextColor
-	^ Color white	

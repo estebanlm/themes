@@ -1,3 +1,0 @@
-*DarkMetalTheme
-scrollpaneBackgroundColor
-	^ self spotterThemer backgroundColor

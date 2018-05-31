@@ -1,3 +1,0 @@
-catalog
-catalogKeywords
-	^ #(theme ui)
