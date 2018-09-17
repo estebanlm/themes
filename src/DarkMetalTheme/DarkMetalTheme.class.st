@@ -4,7 +4,7 @@ taken from here: https://github.com/atom/one-dark-ui
 Class {
 	#name : #DarkMetalTheme,
 	#superclass : #PharoDarkTheme,
-	#category : 'DarkMetalTheme'
+	#category : #DarkMetalTheme
 }
 
 { #category : #accessing }
@@ -20,7 +20,9 @@ DarkMetalTheme class >> basePassiveBackgroundColor [
 { #category : #accessing }
 DarkMetalTheme class >> baseSelectionColor [
 	"^ (Color r: 0.148 g: 0.168 b: 0.194 alpha: 1.0)"
-	^ Color r: 0.125 g: 0.142 b: 0.163 alpha: 1.0
+	"^ Color r: 0.125 g: 0.142 b: 0.163 alpha: 1.0"
+	"^ (Color r: 0.217 g: 0.242 b: 0.274 alpha: 1.0)"
+	^ (Color r: 0.243 g: 0.271 b: 0.364 alpha: 1.0)
 ]
 
 { #category : #accessing }
@@ -69,7 +71,8 @@ DarkMetalTheme class >> themeName [
 
 { #category : #'accessing colors' }
 DarkMetalTheme >> backgroundColor [
-	^ Color r: 16r2b g: 16r36 b: 16r43 range: 16rff
+	"^ Color r: 16r2b g: 16r36 b: 16r43 range: 16rff"
+	^ (Color r: 0.116 g: 0.147 b: 0.182 alpha: 1.0)
 
 ]
 
