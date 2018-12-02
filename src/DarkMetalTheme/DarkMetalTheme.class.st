@@ -60,7 +60,7 @@ DarkMetalTheme class >> newDefaultSettings [
 		autoSelectionColor: false;
 		preferRoundCorner: false;
 		fadedBackgroundWindows: false;
-		"secondarySelectionColor: self veryLightSelectionColor;"
+		secondarySelectionColor: self veryLightSelectionColor;
 		flatMenu: true
 ]
 
