@@ -161,6 +161,12 @@ DarkMetalTheme >> selectionColor [
 	^ self class baseSelectionColor
 ]
 
+{ #category : #defaults }
+DarkMetalTheme >> shStyleTableName [
+
+	^ #solarizedDarkStyleTable
+]
+
 { #category : #'fill-styles' }
 DarkMetalTheme >> windowInactiveFillStyleFor: aWindow [
 	"We do not want the lighting effect when the window goes inactive"
