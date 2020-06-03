@@ -167,6 +167,11 @@ DarkMetalTheme >> shStyleTableName [
 	^ #solarizedDarkStyleTable
 ]
 
+{ #category : #'border-styles-scrollbars' }
+DarkMetalTheme >> textColor [
+	^Color lightGray lighter
+]
+
 { #category : #'fill-styles' }
 DarkMetalTheme >> windowInactiveFillStyleFor: aWindow [
 	"We do not want the lighting effect when the window goes inactive"
