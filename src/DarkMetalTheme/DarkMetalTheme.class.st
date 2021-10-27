@@ -108,11 +108,11 @@ DarkMetalTheme >> buttonNormalBorderStyleFor: aButton [
 	
 	(aButton valueOfProperty: #noBorder ifAbsent: [ false ]) 
 		ifTrue: [ 
-			^ SimpleBorder new 
+			^ SimpleBorderStyle new 
 				width: 0; 
 				baseColor: Color transparent ].
 	
-	^ SimpleBorder new
+	^ SimpleBorderStyle new
 		width: 1;
 		baseColor: self buttonColor darker
 ]
