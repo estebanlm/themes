@@ -40,6 +40,7 @@ SHRBTextStyler class >> solarizedDarkStyleTable [
 			(keyword 								'678CB1')
 			(binary 								'678CB1') 
 			(unary 								'678CB1')
+			(selector 							'678CB1')
 										
 			(#true 								'B58900')
 			(#false 								'B58900')
@@ -78,6 +79,7 @@ SHRBTextStyler class >> solarizedDarkStyleTable [
 			(undefinedBinary 					'FF8A80') 
 			(undefinedUnary 					'FF8A80') 
 			
+			(patternSelector 					nil bold)
 			(patternKeyword 					nil bold)
 			(patternBinary 						nil bold)
 			(patternUnary 						nil bold) 
