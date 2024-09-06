@@ -1,6 +1,6 @@
-Extension { #name : #SHRBTextStyler }
+Extension { #name : 'SHRBTextStyler' }
 
-{ #category : #'*SolarizedDarkStyle' }
+{ #category : '*SolarizedDarkStyle' }
 SHRBTextStyler class >> solarizedDarkStyleTable [
 	"color can be a valid argument to Color class>>colorFrom: , or nil to
 	use the editor text color.
@@ -73,17 +73,20 @@ SHRBTextStyler class >> solarizedDarkStyleTable [
 			(incompleteKeyword 				'E8E2B7' italic)
 			(incompleteBinary 					'E8E2B7' italic) 
 			(incompleteUnary 					'E8E2B7' italic)
+			(incompleteSelector 				'E8E2B7' italic)								
 				
 			(undefinedIdentifier 				'FF8A80')						
 			(undefinedKeyword 					'FF8A80')
 			(undefinedBinary 					'FF8A80') 
 			(undefinedUnary 					'FF8A80') 
+			(undefinedSelector 				'FF8A80') 
 			
 			(patternSelector 					nil bold)
-			(patternKeyword 					nil bold)
-			(patternBinary 						nil bold)
-			(patternUnary 						nil bold) 
+			(patternKeyword 					nil)
+			(patternBinary 						nil)
+			(patternUnary 						nil) 
 			(blockArgColon 						'E0E2E4')
+			(parenthesis 			         'E0E2E4')		
 			(leftParenthesis 					'E0E2E4')
 			(rightParenthesis 					'E0E2E4')
 			(leftParenthesis1 					(green muchLighter))

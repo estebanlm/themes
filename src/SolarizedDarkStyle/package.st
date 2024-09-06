@@ -1,1 +1,1 @@
-Package { #name : #SolarizedDarkStyle }
+Package { #name : 'SolarizedDarkStyle' }
