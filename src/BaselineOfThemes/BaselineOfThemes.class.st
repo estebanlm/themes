@@ -1,14 +1,15 @@
 Class {
-	#name : #BaselineOfThemes,
-	#superclass : #BaselineOf,
-	#category : 'BaselineOfThemes'
+	#name : 'BaselineOfThemes',
+	#superclass : 'BaselineOf',
+	#category : 'BaselineOfThemes',
+	#package : 'BaselineOfThemes'
 }
 
-{ #category : #accessing }
+{ #category : 'accessing' }
 BaselineOfThemes >> baseline: spec [ 
 	<baseline>
 	
 	spec for: #pharo do: [
 		spec package: 'DarkMetalTheme'.
-		spec package: 'SolarizedDarkStyle' ] 
+		spec package: 'HighlightStyles' ] 
 ]
