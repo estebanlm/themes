@@ -122,8 +122,11 @@ SHRBTextStyler class >> atomOneDark [
 	  (pragma                                'C678DD')
 	  (externalFunctionCallingConvention     'C678DD' bold)
 	  (module                                'C678DD' bold)
+	  "extra"
+	  (highlight 							'362E26' normal '9A6A3A')
+	  (searchOccurrence 						'362E26' normal '9A6A3A')
+	  (url 									'70B3EE' underlined)
 	)
-
 ]
 
 { #category : '*HighlightStyles' }
@@ -248,6 +251,10 @@ SHRBTextStyler class >> atomOneLight [
 	(pragma                                'A626A4')
 	(externalFunctionCallingConvention     'A626A4' bold)
 	(module                                'A626A4' bold)
+	"extra"
+	(highlight 							'383A42' normal 'E6C7A3')
+	(searchOccurrence 					'383A42' normal 'E6C7A3')
+  	(url 								'70B3EE' underlined)	
 	)
 
 ]
@@ -370,8 +377,11 @@ SHRBTextStyler class >> codeDark [
 	  (pragma                               'C586C0')
 	  (externalFunctionCallingConvention    'C586C0' bold)
 	  (module                               'C586C0' bold)
+	  "extra"
+	  (highlight 							'362E26' normal '9A6A3A')
+	  (searchOccurrence 						'362E26' normal '9A6A3A')
+	  (url 									'70B3EE' underlined)
 	)
-
 ]
 
 { #category : '*HighlightStyles' }
@@ -492,7 +502,12 @@ SHRBTextStyler class >> codeLight [
 	  (pragma                               'AF00DB')
 	  (externalFunctionCallingConvention    'AF00DB' bold)
 	  (module                               'AF00DB' bold)
-	)
+	  
+	  "extra"
+	  (highlight 							'383A42' normal 'E6C7A3')
+	  (searchOccurrence 					'383A42' normal 'E6C7A3')
+  	  (url 								'70B3EE' underlined)	
+)
 
 ]
 
@@ -618,6 +633,10 @@ SHRBTextStyler class >> draculaDark [
 	  (pragma                                'FF79C6')
 	  (externalFunctionCallingConvention     'FF79C6' bold)
 	  (module                                'FF79C6' bold)
+	  "extra"
+	  (highlight 							'362E26' normal '9A6A3A')
+	  (searchOccurrence 						'362E26' normal '9A6A3A')
+	  (url 									'70B3EE' underlined)
 	)
 
 ]
@@ -744,6 +763,11 @@ SHRBTextStyler class >> githubDark [
 	  (pragma                                'D2A8FF')
 	  (externalFunctionCallingConvention     'D2A8FF' bold)
 	  (module                                'D2A8FF' bold)
+	  
+	  "extra"
+	  (highlight 							'362E26' normal '9A6A3A')
+	  (searchOccurrence 						'362E26' normal '9A6A3A')
+	  (url 									'70B3EE' underlined)
 	)
 
 ]
@@ -870,6 +894,11 @@ SHRBTextStyler class >> githubLight [
 	  (pragma                                '8250DF')
 	  (externalFunctionCallingConvention     '8250DF' bold)
 	  (module                                '8250DF' bold)
+	
+	  "extra"
+	  (highlight 							'383A42' normal 'E6C7A3')
+	  (searchOccurrence 					'383A42' normal 'E6C7A3')
+  	  (url 								'70B3EE' underlined)	
 	)
 
 ]
@@ -997,6 +1026,10 @@ SHRBTextStyler class >> gruvboxDark [
 	  (pragma                                'D3869B')
 	  (externalFunctionCallingConvention     'D3869B' bold)
 	  (module                                'D3869B' bold)
+	  "extra"
+	  (highlight 							'362E26' normal '9A6A3A')
+	  (searchOccurrence 						'362E26' normal '9A6A3A')
+	  (url 									'70B3EE' underlined)
 	)
 
 ]
@@ -1125,8 +1158,11 @@ SHRBTextStyler class >> gruvboxLight [
 	  (pragma                                '8F3F71')
 	  (externalFunctionCallingConvention     '8F3F71' bold)
 	  (module                                '8F3F71' bold)
-	)
-
+	  "extra"
+	  (highlight 							'383A42' normal 'E6C7A3')
+	  (searchOccurrence 						'383A42' normal 'E6C7A3')
+  	  (url 									'70B3EE' underlined)	
+)
 ]
 
 { #category : '*HighlightStyles' }
@@ -1251,8 +1287,11 @@ SHRBTextStyler class >> monokaiDark [
 	  (pragma                                'F92672')
 	  (externalFunctionCallingConvention     'F92672' bold)
 	  (module                                'F92672' bold)
+	  "extra"
+	  (highlight 							'362E26' normal '9A6A3A')
+	  (searchOccurrence 						'362E26' normal '9A6A3A')
+	  (url 									'70B3EE' underlined)
 	)
-
 ]
 
 { #category : '*HighlightStyles' }
@@ -1378,8 +1417,11 @@ SHRBTextStyler class >> nordDark [
 	  (pragma                                'B48EAD')
 	  (externalFunctionCallingConvention     'B48EAD' bold)
 	  (module                                'B48EAD' bold)
+	  "extra"
+	  (highlight 							'362E26' normal '9A6A3A')
+	  (searchOccurrence 						'362E26' normal '9A6A3A')
+	  (url 									'70B3EE' underlined)
 	)
-
 ]
 
 { #category : '*HighlightStyles' }
@@ -1505,8 +1547,11 @@ SHRBTextStyler class >> nordLight [
 	  (pragma                                'B48EAD')
 	  (externalFunctionCallingConvention     'B48EAD' bold)
 	  (module                                'B48EAD' bold)
+	  "extra"
+	  (highlight 							'383A42' normal 'E6C7A3')
+	  (searchOccurrence 						'383A42' normal 'E6C7A3')
+  	  (url 									'70B3EE' underlined)	
 	)
-
 ]
 
 { #category : '*HighlightStyles' }
@@ -1633,6 +1678,10 @@ SHRBTextStyler class >> oceanicDark [
 	  (pragma                                'C594C5')
 	  (externalFunctionCallingConvention     'C594C5' bold)
 	  (module                                'C594C5' bold)
+	  "extra"
+	  (highlight 							'362E26' normal '9A6A3A')
+	  (searchOccurrence 						'362E26' normal '9A6A3A')
+	  (url 									'70B3EE' underlined)
 	)
 
 ]
@@ -1761,6 +1810,11 @@ SHRBTextStyler class >> oceanicLight [
 	  (pragma                                'C594C5')
 	  (externalFunctionCallingConvention     'C594C5' bold)
 	  (module                                'C594C5' bold)
+	  
+	  "extra"
+	  (highlight 							'383A42' normal 'E6C7A3')
+	  (searchOccurrence 						'383A42' normal 'E6C7A3')
+  	  (url 									'70B3EE' underlined)	
 	)
 
 ]
@@ -1889,6 +1943,10 @@ SHRBTextStyler class >> oneHalfDark [
 	  (pragma                                'C678DD')
 	  (externalFunctionCallingConvention     'C678DD' bold)
 	  (module                                'C678DD' bold)
+	  "extra"
+	  (highlight 							'362E26' normal '9A6A3A')
+	  (searchOccurrence 						'362E26' normal '9A6A3A')
+	  (url 									'70B3EE' underlined)
 	)
 
 ]
@@ -2017,6 +2075,11 @@ SHRBTextStyler class >> oneHalfLight [
 	  (pragma                                'A626A4')
 	  (externalFunctionCallingConvention     'A626A4' bold)
 	  (module                                'A626A4' bold)
+	  
+	  "extra"
+	  (highlight 							'383A42' normal 'E6C7A3')
+	  (searchOccurrence 						'383A42' normal 'E6C7A3')
+  	  (url 									'70B3EE' underlined)	
 	)
 
 ]
@@ -2142,5 +2205,10 @@ SHRBTextStyler class >> solarizedDark [
 	(pragma 								'CB4B16')
 	(externalFunctionCallingConvention 	'CB4B16' bold)
 	(module 								'CB4B16' bold)
-	)
+
+	"extra"
+	(highlight 							'362E26' normal '9A6A3A')
+	(searchOccurrence 					'362E26' normal '9A6A3A')
+  	(url 								'70B3EE' underlined)	
+)
 ]
